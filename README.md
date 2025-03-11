@@ -8,7 +8,7 @@
 
 ## ✨ Description
 
-**GitHubProfileProject** is an application developed in **Swift** using the **MVVM-C** architecture. The purpose of the application is to query GitHub users and display their data, such as name, photo (if any), and their repositories with the language used to develop.
+**GitHubProfileProject** is an application developed in **Swift** using the **MVVM** architecture. The purpose of the application is to query GitHub users and display their data, such as name, photo (if any), and their repositories with the language used to develop.
 
 ## 💡 Technologies Used
 
@@ -57,7 +57,7 @@ If you have any questions or suggestions, feel free to contact me:
 
 ## ✨ Descrição
 
-O **GitHubProfileProject** é uma aplicação desenvolvida em **Swift** utilizando a arquitetura **MVVM-C**. O objetivo da aplicação é fazer consultas de usuários do GitHub e exibir seus dados, como nome, foto(se houver), e seus repositórios com a linguagem usada para desenvolver.
+O **GitHubProfileProject** é uma aplicação desenvolvida em **Swift** utilizando a arquitetura **MVVM**. O objetivo da aplicação é fazer consultas de usuários do GitHub e exibir seus dados, como nome, foto(se houver), e seus repositórios com a linguagem usada para desenvolver.
 
 ## 💡 Tecnologias Utilizadas
 
